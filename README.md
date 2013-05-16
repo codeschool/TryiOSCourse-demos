@@ -1,4 +1,4 @@
 TryiOSCourse-demos
 ==================
 
-Sample projects from Code Schools Try iOS course http://tryios.codeschool.com/
+Sample projects from Code School's Try iOS course http://tryios.codeschool.com/
